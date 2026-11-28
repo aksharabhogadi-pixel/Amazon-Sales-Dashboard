@@ -1,8 +1,11 @@
 Amazon India Sales Dashboard
 
 Student: Akshara Bhogadi
+
 Project: Amazon India Sales Dashboard
+
 Tool Used: Microsoft Excel
+
 Project Domain: Data Analytics
 
 1. Project Overview
